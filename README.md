@@ -18,6 +18,7 @@ Treat a Piazza post as a bag of words” - each post is simply characterized by 
 <br>```$ ./main.exe TRAIN_FILE TEST_FILE ```
 
 <br>```$ ./main.exe TRAIN_FILE TEST_FILE [--debug]``` (enabling the debug flag give more detailed calculated statistics)
+<br> The predicted lables will be based on the training file provided in the command line
 
 ## What I Learned
 - Linked Lists
