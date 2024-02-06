@@ -1,6 +1,6 @@
 # Piazza Label Predictor
 Created an program that automatically identify the subject of posts from Piazza 
-<br>using natural language processing and machine learning techniques. 
+>using natural language processing and machine learning techniques. 
 
 ## Bag of Words Model
 Treat a Piazza post as a bag of words” - each post is simply characterized by which words it includes. 
