@@ -22,7 +22,7 @@ Treat a Piazza post as a bag of words” - each post is simply characterized by 
 ## What I Learned
 - Linked Lists
 - Binary Search Trees
-- Maps<>
+- Maps
 - Templates
 - Recursion
 - Handling CSV files
