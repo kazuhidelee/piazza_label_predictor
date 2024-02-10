@@ -1,5 +1,7 @@
 # Piazza Label Predictor
-Created an program that automatically identify the subject of posts from Piazza 
+<img width="948" alt="Screenshot 2024-02-10 at 12 33 47 AM" src="https://github.com/kazuhidelee/piazza_label_predictor/assets/122251831/5782e4f2-d03c-4b73-aa5e-6e844a87a90c">
+
+Created an program that automatically identify the subject of posts from Piazza and which label/folder/tag the post belong to
 using natural language processing and machine learning techniques. 
 <br>The program will read in CSV files as training data and output the predicted labels of the posts in the testing files based on the training data
 
